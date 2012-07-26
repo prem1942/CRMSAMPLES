@@ -1,0 +1,3 @@
+CrmSvcUtil.exe /url:https://demobro100.api.crm4.dynamics.com/XRMServices/2011/Organization.svc /username:premnarayanp@damcogroup.com /password:x26HyR /out:"Xrm.cs" /namespace:Xrm
+ 
+

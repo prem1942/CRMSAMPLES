@@ -1,0 +1,42 @@
+second commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/About.aspx
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/About.aspx.cs
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Account/ChangePassword.aspx
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Account/ChangePassword.aspx.cs
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Account/ChangePasswordSuccess.aspx
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Account/ChangePasswordSuccess.aspx.cs
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Account/Login.aspx
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Account/Login.aspx.cs
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Account/Register.aspx
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Account/Register.aspx.cs
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Account/Web.config
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/App_Code/ODataService.cs
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/App_Code/XRM.cs
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/CRM Binary/microsoft.xrm.client.dll
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/CRM Binary/microsoft.xrm.sdk.dll
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Command to generate XRM File.txt
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Default.aspx
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Default.aspx.cs
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Global.asax
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/ODataService.svc
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Scripts/jquery-1.4.1-vsdoc.js
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Scripts/jquery-1.4.1.js
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Scripts/jquery-1.4.1.min.js
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Site.master
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Site.master.cs
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Styles/Site.css
+#	new file:   Web With CRM Using early Bound/SampleAccountSite/Web.config
+#
+
